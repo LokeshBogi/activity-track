@@ -67,6 +67,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-## License
-
-GPL3
+## Database
+All the data is stored and can be downloaded in the form of CSV or Json file.
